@@ -1,15 +1,3 @@
-# ⚡ API de Telemetria Energética Industrial
-
-![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.110.0-009688.svg)
-![Poetry](https://img.shields.io/badge/Poetry-orchestrated-blueviolet.svg)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-red.svg)
-![Pytest](https://img.shields.io/badge/Pytest-100%25_passing-brightgreen.svg)
-
-Uma API RESTful desenvolvida em **Python** com **FastAPI** para simulação, ingestão, persistência e análise de medições de consumo elétrico de equipamentos industriais em tempo real. 
-
-O projeto conta com arquitetura modular baseada nas melhores práticas da metodologia **"FastAPI do Zero"**, persistência relacional com **SQLAlchemy 2.0**, gerenciamento de dependências com **Poetry**, CRUD completo, testes automatizados isolados e integração para consumo de dados em dashboards no **Power BI**.
-
 # Telemetria Energética
 
 API REST para registrar e acompanhar o consumo energético de máquinas. A aplicação usa FastAPI, SQLAlchemy e SQLite por padrão.
